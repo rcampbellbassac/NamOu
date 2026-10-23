@@ -1,0 +1,28 @@
+{
+ "name": "Nam Ou",
+ "slug": "NamOu",
+ "native": "ນ້ຳອູ",
+ "version": "0.100",
+ "cat": "script",
+ "title": "Broad-nib italic",
+ "insp": "Charm, Great Vibes, Fasthand",
+ "bases": {
+  "lao": "lao-looped",
+  "thai": "thai-looped",
+  "khmer": "khmer",
+  "latin": "latin"
+ },
+ "recipe": [
+  {
+   "op": "nib",
+   "shape": "line",
+   "w": 86,
+   "h": 10,
+   "angle": 35
+  },
+  {
+   "op": "shear",
+   "deg": 12
+  }
+ ]
+}
